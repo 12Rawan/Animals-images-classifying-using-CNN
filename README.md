@@ -14,7 +14,7 @@ Size and Quality: Images may vary in dimensions, quality, and background.
 - Applying model form scratch
 - Using dropout and other regularization methods to prevent overfitting
 
-  ## Screenshots :
+## Screenshots :
   - Pretrained model (Inception) :
 ![WhatsApp Image 2024-02-18 at 2 19 58 AM (1)](https://github.com/RaneemLoay/Animals-images-classifying-using-CNN/assets/103434226/6bfa41a2-b2ee-4401-aee1-0397a3ab7ccb)
 ![WhatsApp Image 2024-02-18 at 2 19 57 AM (2)](https://github.com/RaneemLoay/Animals-images-classifying-using-CNN/assets/103434226/86ecf774-f5ff-4c2f-97d2-bb3b4093e500)
